@@ -4,12 +4,11 @@ end
 
 def using_sort(array)
 array.sort
-sort!
 end
 
 def using_reverse(array)
 array.reverse
-reverse!
+
 end
 
 def using_first(array)
